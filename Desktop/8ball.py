@@ -25,7 +25,7 @@ while ans:
        print "Yo Momma"
 
    elif answers == 3:
-       print "Don't ask me man, I only work here"
+       print "Don't ask me man, I'm unemployed"
 
    elif answers == 4:
        print "I don't know, why are you asking me?"
